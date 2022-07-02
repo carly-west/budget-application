@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88069919930",
+    "project_id": "byu-i-hungry",
+    "storage_bucket": "byu-i-hungry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88069919930:android:0f8c39ee5b7592c1e99e83",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88069919930-s04h4ih595cp4h462hqtg2g80v6do8ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlDzx3eYF1ctGeomKHfq5D4V787E-eK9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88069919930-s04h4ih595cp4h462hqtg2g80v6do8ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
