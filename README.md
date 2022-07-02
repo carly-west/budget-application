@@ -4,9 +4,7 @@ This program allows users to update the amount spent on Chick-Fil-A, as well as 
 
 The purpose of writing this software was to learn how to connect Kotlin and Android Studio with a Firestore database.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/fB0e3n_nDzU)
 
 # Cloud Database
 
@@ -20,7 +18,6 @@ I used Android Studio with Firebase.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Firebase documentation](https://firebase.google.com/docs?authuser=0&hl=en)
 * [How to Create and Add Data to Firebase Firestore in Android?](https://www.geeksforgeeks.org/create-and-add-data-to-firebase-firestore-in-android/)
 
